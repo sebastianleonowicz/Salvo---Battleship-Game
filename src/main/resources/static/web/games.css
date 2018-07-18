@@ -1,0 +1,52 @@
+.body{
+    width: 98vw;
+    height: 98vh;
+    background-image:url(202d78820965a968715d942379c8caf7.jpg);
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+#logInForm{
+    display: none;
+}
+.h1{
+        font-family: 'Pirata One', cursive;
+    position: absolute;
+    font-size: 84px;
+    left: 4%;
+    top: -6%;
+    padding: 16px;
+    background-image: url(box%20background.png);
+    color: #c19b6c;
+    border-width: 2px;
+    border-style: solid;
+    border-image: url(deck.jpg) 30 round;
+    
+}
+#orderedList{
+    position: absolute;
+    top: 42%;
+    left: 44%;
+}
+#leaderboard{
+        position: absolute;
+    left: 46%;
+    top: 6%;
+}
+.forms{
+        position: absolute;
+    top: 34%;
+    left: 2%;
+    width: 34%;
+
+}
+#username{
+        position: absolute;
+    top: 25%;
+}
+#info{
+       position: absolute;
+    top: 33%;
+    left: 24%;
+}
